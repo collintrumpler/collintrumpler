@@ -6,8 +6,8 @@ Front-end Web Dev & Designer
 
 Passionate self-taught front-end web developer with a focus for creativity and concision. I thrive on crafting visually appealing, user-centric websites. My journey through coding is fueled by an insatiable curiosity and a relentless pursuit of refining my skills. Eager to contribute innovative solutions and collaborate on exciting projects within the ever-evolving landscape of web development, let's build something remarkable together!
 
-*   🌍  I'm based in Maine
-*   🖥️  See my portfolio at [My Website](http://collintrumpler.com)
+*   🌍  Based out of Maine
+*   🖥️  See more in [my portfolio](http://collintrumpler.com)
 *   ✉️  You can contact me at [collin.trumpler@gmail.com](mailto:collin.trumpler@gmail.com)
 
 ### Skills 
